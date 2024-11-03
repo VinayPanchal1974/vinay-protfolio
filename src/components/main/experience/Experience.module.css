@@ -1,0 +1,8 @@
+.horizontal-bar {
+    margin-left: 25px;
+    height: 2px; 
+    width: 30%; 
+    background: linear-gradient(to left, red , orange)
+  }
+
+

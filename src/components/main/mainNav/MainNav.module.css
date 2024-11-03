@@ -1,0 +1,19 @@
+.buttonNav{
+    width: 90px;
+    height:70px;
+    border: 1px solid #e2e8f0;
+    border-radius: 15px;
+    padding: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #e2e8f0;
+}
+
+.buttonNav:hover{
+    color: white;
+    background-image: linear-gradient(to left, red , orange);
+}
